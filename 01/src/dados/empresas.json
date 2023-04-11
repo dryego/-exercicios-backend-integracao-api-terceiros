@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Google",
+    "domain": "google.com",
+    "year_founded": 1998,
+    "industry": "Internet",
+    "employees_count": 219238,
+    "locality": "Mountain View",
+    "country": "United States",
+    "linkedin_url": "linkedin.com/company/google"
+  },
+  {
+    "name": "Ifood",
+    "domain": "ifood.com.br",
+    "year_founded": 2011,
+    "industry": "Internet",
+    "employees_count": 4119,
+    "locality": "Osasco",
+    "country": "Brazil",
+    "linkedin_url": "linkedin.com/company/ifood-"
+  }
+]
